@@ -1,7 +1,0 @@
----
-default: --publish-quiet -p html -p bdd -p local -p chrome #define o formato padrao de resultado
-html: -f html -o logs/report.html #guarda o resultado de teste neste formato neste arquivo
-bdd: -f pretty #formato padrao em bdd
-local: CONFIG=local.yml
-chrome: BROWSER=chrome
-chrome_headless: BROWSER=chrome_headless
