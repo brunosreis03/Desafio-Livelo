@@ -3,7 +3,7 @@
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Como utilizar o projeto](#-como-utilizar-o-projeto)
-     * [Pré-requisitos](#pré-requisitos)
+      * [Pré-requisitos](#pré-requisitos)
    * [Cenarios automatizados](#-cenarios-automatizados)
    * [Tecnologias](#-tecnologias)
 <!--te-->
