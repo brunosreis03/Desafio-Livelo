@@ -20,7 +20,7 @@ git clone https://github.com/brunosreis03/Desafio-Livelo/ <br>
 5 - No Console emulator, entrar na pasta do projeto através do comando "cd C:\Local onde o projeto se encontra (Ex: C:\Users\Bruno Reis\Desktop\Desafio-Livelo\web)" <br>
 6 - Utilizar o comando "cucumber features\specs\nome_do_arquivo.feature" para rodar um arquivo específico ou "cucumber" para rodar todos os cenários. <br>
 
-   Pré-requisitos
+  <b>Pré-requisitos</b><br>
   - Possuir o VS Code instalado na máquina: https://code.visualstudio.com/download
   - Possuir o JDK instalado na maquina: https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html
   - Possuir o GIT instalado na máquina
