@@ -2,6 +2,7 @@
 
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
+   * [Orientações sobre o desafio](#-orientações-sobre-o-desafio)
    * [Como utilizar o projeto](#-como-utilizar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
    * [Cenarios automatizados](#-cenarios-automatizados)
@@ -10,6 +11,9 @@
 
 ## 💻 Sobre o projeto
 <p>Projeto de automação de testes web no site da Livelo a respeito da funcionalidade de adicionar um produto ao carrinho.</p>
+
+## 💻 Orientações sobre o desafio
+https://github.com/desafios-qa-automacao/desafio-livelo/blob/master/Orienta%C3%A7%C3%B5es%20desafio%20t%C3%A9cnico%20automa%C3%A7%C3%A3o%20-%20Livelo.pdf <br>
 
 ## 🚀 Como utilizar o projeto
 1 - Clonar o projeto pra maquina: <br>
