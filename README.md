@@ -12,7 +12,7 @@
 ## 💻 Sobre o projeto
 <p>Projeto de automação de testes web no site da Livelo a respeito da funcionalidade de adicionar um produto ao carrinho.</p>
 
-## 💻 Orientações sobre o desafio
+## 📖 Orientações sobre o desafio
 https://github.com/desafios-qa-automacao/desafio-livelo/blob/master/Orienta%C3%A7%C3%B5es%20desafio%20t%C3%A9cnico%20automa%C3%A7%C3%A3o%20-%20Livelo.pdf <br>
 
 ## 🚀 Como utilizar o projeto
